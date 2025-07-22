@@ -61,6 +61,26 @@ This project involves performing detailed SQL-based analysis on a simulated **He
 - NULL filtering for missing data
 - Sorting, filtering, and grouping
 
+- ## 📊 Sample Query Visualization
+
+Here's a snapshot of one of the sample `SELECT` queries you've implemented:
+
+![Example SELECT Query Screenshot](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/01_Select_Query.jpeg)
+
+![Select Query 2](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/02_Select_Query.jpeg)
+
+### 📄 Example: Patient Appointment Query Output
+
+![Select Query 3](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/03_Select_Query.jpeg)
+
+### 🧾 Example: Billing Information Query Result
+
+![Select Query 4](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/04_Select_Query.jpeg)
+
+### 📌 Example: Appointments with Billing Status
+
+![Select Query 5](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/05_Select_Query.jpeg)
+
 ---
 
 ## 🚀 How to Use
