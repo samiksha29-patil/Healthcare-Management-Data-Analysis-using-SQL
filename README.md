@@ -77,7 +77,7 @@ Here's a snapshot of one of the sample `SELECT` queries you've implemented:
 
 ![Select Query 4](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/04_Select_Query.jpeg)
 
-### 📌 Example: Appointments with Billing Status
+### 📌 Example: Appointments With Each Day
 
 ![Select Query 5](https://raw.githubusercontent.com/samiksha29-patil/Healthcare-Management-Data-Analysis-using-SQL/main/05_Select_Query.jpeg)
 
